@@ -1,0 +1,792 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/monstrillllo/ontologies/2021/3/merge123"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/3/merge123">
+    <Prefix name="" IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/3/merge123"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal>dog_breeds</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7ZvnGlWvic0g8ovrm5vurl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8ECD0SLpfndX1b4bSoait9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9s8sapo5z7cIAld8BZqQg2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDXVqmNyvEWgHJDURyi16JI"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDyJUuVESoOaMudPfKxNh0f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Fighting_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hunting_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hypoallergenic_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#companion_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#decorative_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#herding_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#hounds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#sled_dogs"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7zKdm0lvy5azF96ThRyCm5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCdjU4BNSdVQ9uFWHWNs38m"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDXHl27M3ZoE1swSp1hkeX"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alabai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Klee_Kai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Malamute"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_husky"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_akita"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_foxhound"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Anglo-Russian_hound"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bergam_shepherd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bichon_Frize"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Briard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bull_terrier"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Miniature_Pinscher"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Spanish_Mastiff"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R7ZvnGlWvic0g8ovrm5vurl"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R8ECD0SLpfndX1b4bSoait9"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#decorative_dogs"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/R9s8sapo5z7cIAld8BZqQg2"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/RDXVqmNyvEWgHJDURyi16JI"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#companion_dogs"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#hounds"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://webprotege.stanford.edu/RDyJUuVESoOaMudPfKxNh0f"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hypoallergenic_dogs"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7ZvnGlWvic0g8ovrm5vurl"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8ECD0SLpfndX1b4bSoait9"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9s8sapo5z7cIAld8BZqQg2"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDXVqmNyvEWgHJDURyi16JI"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDyJUuVESoOaMudPfKxNh0f"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Fighting_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hunting_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hypoallergenic_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#companion_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#decorative_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#herding_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#hounds"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#sled_dogs"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R8ECD0SLpfndX1b4bSoait9"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7zKdm0lvy5azF96ThRyCm5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RDXVqmNyvEWgHJDURyi16JI"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R9s8sapo5z7cIAld8BZqQg2"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RDyJUuVESoOaMudPfKxNh0f"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCdjU4BNSdVQ9uFWHWNs38m"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/R7ZvnGlWvic0g8ovrm5vurl"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDXHl27M3ZoE1swSp1hkeX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Fighting_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alabai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alabai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#decorative_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Klee_Kai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Klee_Kai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Malamute"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#sled_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Malamute"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_husky"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#sled_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_husky"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hunting_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_akita"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_akita"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#hounds"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_foxhound"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_foxhound"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#hounds"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Anglo-Russian_hound"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Anglo-Russian_hound"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#herding_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bergam_shepherd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bergam_shepherd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hypoallergenic_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bichon_Frize"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bichon_Frize"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#herding_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Briard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#long_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Briard"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Fighting_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bull_terrier"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bull_terrier"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#decorative_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Miniature_Pinscher"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Miniature_Pinscher"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#companion_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Spanish_Mastiff"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Spanish_Mastiff"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Hunting_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#companion_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#short_haired_dogs"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7zKdm0lvy5azF96ThRyCm5"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7zKdm0lvy5azF96ThRyCm5"/>
+        <Literal>9kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb"/>
+        <Literal>27kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb"/>
+        <Literal>11years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U"/>
+        <Literal>4kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCdjU4BNSdVQ9uFWHWNs38m"/>
+        <Literal>22kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCdjU4BNSdVQ9uFWHWNs38m"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDXHl27M3ZoE1swSp1hkeX"/>
+        <Literal>32kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDXHl27M3ZoE1swSp1hkeX"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alabai"/>
+        <Literal>50kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alabai"/>
+        <Literal>11years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Klee_Kai"/>
+        <Literal>7kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Klee_Kai"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Malamute"/>
+        <Literal>45kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_Malamute"/>
+        <Literal>15years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_husky"/>
+        <Literal>25kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Alaskan_husky"/>
+        <Literal>15years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_akita"/>
+        <Literal>50kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_akita"/>
+        <Literal>12years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_foxhound"/>
+        <Literal>40kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#American_foxhound"/>
+        <Literal>10years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Anglo-Russian_hound"/>
+        <Literal>14years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Anglo-Russian_hound"/>
+        <Literal>30kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bergam_shepherd"/>
+        <Literal>30kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bergam_shepherd"/>
+        <Literal>12years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bichon_Frize"/>
+        <Literal>5kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bichon_Frize"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Briard"/>
+        <Literal>40kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Briard"/>
+        <Literal>11years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bull_terrier"/>
+        <Literal>27kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Bull_terrier"/>
+        <Literal>13years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Miniature_Pinscher"/>
+        <Literal>6kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Miniature_Pinscher"/>
+        <Literal>12years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Spanish_Mastiff"/>
+        <Literal>90kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#Spanish_Mastiff"/>
+        <Literal>10years</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+        <Literal>25kg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dolmatian"/>
+        <Literal>12years</Literal>
+    </DataPropertyAssertion>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+    </EquivalentDataProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+    </EquivalentDataProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+    </EquivalentDataProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+    </EquivalentDataProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+    </EquivalentDataProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+    </EquivalentDataProperties>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#average_weight"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <Class IRI="http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <Class IRI="http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#lifespan"/>
+        <Class IRI="http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds"/>
+    </DataPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7N3p94JI2i0kXhNhj0OWXI</IRI>
+        <Literal>dog_breeds</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7ZvnGlWvic0g8ovrm5vurl</IRI>
+        <Literal>long_haired_dogs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7zKdm0lvy5azF96ThRyCm5</IRI>
+        <Literal>affen_spaniel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8ECD0SLpfndX1b4bSoait9</IRI>
+        <Literal>decorative_dogs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8Qyjvu79oSdnoC6h73IaHb</IRI>
+        <Literal>basset_hound</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8jLwDxdKJ81AmOaVl5NeTQ</IRI>
+        <Literal>dog_breeds</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8qoLqVbF6YRYvADt3T8r4U</IRI>
+        <Literal>poodle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8sLMusTHBH8SIPTBAp6Bm1</IRI>
+        <Literal>average_weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9s8sapo5z7cIAld8BZqQg2</IRI>
+        <Literal>short_haired_dogs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC1eBYRih0zRxfHF8ImmdVk</IRI>
+        <Literal>lifespan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCdjU4BNSdVQ9uFWHWNs38m</IRI>
+        <Literal>beagle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCjbbRf6VMlo07EqDi1iZaE</IRI>
+        <Literal>lifespan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDXHl27M3ZoE1swSp1hkeX</IRI>
+        <Literal>german_shepherd</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDXVqmNyvEWgHJDURyi16JI</IRI>
+        <Literal>companion_dogs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDs0PyeZLo5ctfmXeUeYrol</IRI>
+        <Literal>hounds</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDyJUuVESoOaMudPfKxNh0f</IRI>
+        <Literal>hypoallergyc_dogs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rt39WNMblMWk5O0g24rJaz</IRI>
+        <Literal>average_weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.semanticweb.org/monstrillllo/ontologies/2021/1/kbd2#dog_breeds</IRI>
+        <Literal>dog_breeds</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
